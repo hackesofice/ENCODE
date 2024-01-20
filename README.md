@@ -3,7 +3,7 @@
 
 AUTHOR:
 <p align="center">
-U7P4L IN <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif" width="35px"></i></b></h2> 
+HAKR IN <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif" width="35px"></i></b></h2> 
 
 </br>
 <p align="center">
@@ -26,7 +26,7 @@ Python Encrypt is a tool that's help you to secure your important script. You ca
  pip install mechanize
  cd $HOME 
  rm -rf ENCODE
- git clone --depth=1 https://github.com/U7P4L-IN/ENCODE.git
+ git clone --depth=1 https://github.com/hackesofice/ENCODE.git
  cd ENCODE
  ls
  python encode.py
